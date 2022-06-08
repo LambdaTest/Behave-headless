@@ -21,7 +21,7 @@ You can run a test in headless mode by providing it as a capability in `config.j
  ```
  
 * Full documentation for configuration [Behave](https://behave-webdriver.readthedocs.io/en/latest/quickstart.htmll).
-## Step 4: Run your test
+## Run your test
 
 ### Running tests through local (linux/unix)
 ```bash
